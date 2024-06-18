@@ -1,0 +1,5 @@
+CHECK: %0 = load i32, ptr %n.addr, align 4, !x10 !0
+CHECK: %1 = load i32, ptr %n.addr, align 4, !x10 !0
+CHECK: %2 = load i32, ptr %n.addr, align 4, !x10 !0
+CHECK: %3 = load i32, ptr %n.addr, align 4, !x10 !0
+CHECK: %4 = load i64, ptr %retval, align 8, !x10 !0
