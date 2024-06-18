@@ -26,6 +26,7 @@ opt -load-pass-plugin build/lib/libAddConst.so -passes=<pass_name> -S examples/f
 ## Tests
 ```
 opt -load-pass-plugin build/lib/libAddConst.so -passes=<pass_name> -S examples/foo.ll -o output/bar.ll
+
 FileCheck tests/<checks_file> -input-file=output/bar.ll
 ```
 
