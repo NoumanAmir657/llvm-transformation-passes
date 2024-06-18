@@ -1,0 +1,25 @@
+# ninja log v5
+2	3174	1718621542394820917	lib/CMakeFiles/AddConst.dir/AddCallPass.cpp.o	fd3e7d41c3b6d1c2
+4	3456	1718618305851534585	lib/CMakeFiles/AddConst.dir/AddCallAnalysis.cpp.o	314c7df99a1c9bc3
+2	3154	1718361422243378094	lib/CMakeFiles/AddConst.dir/MulToShiftAnalysis.cpp.o	102f035b69afa791
+1	2300	1718354677918155600	lib/CMakeFiles/AddConst.dir/AddMetadataAnalysis.cpp.o	b353eaf65839c822
+3	3116	1718618305511557924	lib/CMakeFiles/AddConst.dir/AddConstAnalysis.cpp.o	c9f2c4d920ee9578
+4	8036	1718619663560090211	lib/CMakeFiles/AddConst.dir/AddConstPlugin.cpp.o	9e3729d1044726c9
+4	3011	1718618305407565063	lib/CMakeFiles/AddConst.dir/AddConstPass.cpp.o	145805f10a4cb8ef
+21	3823	1718615176307226528	lib/CMakeFiles/AddConst.dir/AddToSubPass.cpp.o	3181c82de26f74a3
+3174	3615	1718621542830732723	lib/libAddConst.so	42863c60f501bc06
+3	3661	1718361320780519326	lib/CMakeFiles/AddConst.dir/AddToSubAnalysis.cpp.o	856437db991fa612
+2	3261	1718361534533930724	lib/CMakeFiles/AddConst.dir/MulToShiftPass.cpp.o	1bff96f233e2168
+2	2237	1718354741120441113	lib/CMakeFiles/AddConst.dir/AddMetadataPass.cpp.o	abba90678bc56a41
+0	5043	1718703511195986905	lib/CMakeFiles/Passes.dir/AddConstAnalysis.cpp.o	267004ab7af82584
+1	5151	1718703511303976754	lib/CMakeFiles/Passes.dir/AddConstPass.cpp.o	84bd88d06827787e
+2	5540	1718703511691940290	lib/CMakeFiles/Passes.dir/AddToSubAnalysis.cpp.o	fcf3b67ce3198e7e
+4	5654	1718703511807929389	lib/CMakeFiles/Passes.dir/MulToShiftAnalysis.cpp.o	24ab8ae1cf79eeb9
+1	5683	1718703511835926757	lib/CMakeFiles/Passes.dir/AddMetadataAnalysis.cpp.o	d8edf21dd6b25508
+6	5763	1718703511915919239	lib/CMakeFiles/Passes.dir/AddCallAnalysis.cpp.o	5f8e898c2e2ba478
+2	5772	1718703511927918111	lib/CMakeFiles/Passes.dir/AddMetadataPass.cpp.o	a159f62b402c0374
+6	5805	1718703511959915104	lib/CMakeFiles/Passes.dir/AddCallPass.cpp.o	4561476c9a839a9c
+3	5873	1718703512027908783	lib/CMakeFiles/Passes.dir/AddToSubPass.cpp.o	61bdb21abf548d5e
+4	5997	1718703512147897863	lib/CMakeFiles/Passes.dir/MulToShiftPass.cpp.o	576c9addbb7daed
+6	10791	1718703516939489925	lib/CMakeFiles/Passes.dir/AddConstPlugin.cpp.o	c4f5a041ef838ea9
+10791	11171	1718703517323460261	lib/libPasses.so	5458e83d75f489e4

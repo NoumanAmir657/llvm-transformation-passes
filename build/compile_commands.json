@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/lpt-10xe/addconst/build",
+  "command": "/usr/bin/c++ -DPasses_EXPORTS -I/home/lpt-10xe/riscv-llvm/llvm/include -I/home/lpt-10xe/riscv-llvm/_build/include -I/home/lpt-10xe/addconst/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D_DEBUG -D_GLIBCXX_ASSERTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o lib/CMakeFiles/Passes.dir/AddConstAnalysis.cpp.o -c /home/lpt-10xe/addconst/lib/AddConstAnalysis.cpp",
+  "file": "/home/lpt-10xe/addconst/lib/AddConstAnalysis.cpp"
+},
+{
+  "directory": "/home/lpt-10xe/addconst/build",
+  "command": "/usr/bin/c++ -DPasses_EXPORTS -I/home/lpt-10xe/riscv-llvm/llvm/include -I/home/lpt-10xe/riscv-llvm/_build/include -I/home/lpt-10xe/addconst/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D_DEBUG -D_GLIBCXX_ASSERTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o lib/CMakeFiles/Passes.dir/AddConstPass.cpp.o -c /home/lpt-10xe/addconst/lib/AddConstPass.cpp",
+  "file": "/home/lpt-10xe/addconst/lib/AddConstPass.cpp"
+},
+{
+  "directory": "/home/lpt-10xe/addconst/build",
+  "command": "/usr/bin/c++ -DPasses_EXPORTS -I/home/lpt-10xe/riscv-llvm/llvm/include -I/home/lpt-10xe/riscv-llvm/_build/include -I/home/lpt-10xe/addconst/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D_DEBUG -D_GLIBCXX_ASSERTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o lib/CMakeFiles/Passes.dir/AddMetadataAnalysis.cpp.o -c /home/lpt-10xe/addconst/lib/AddMetadataAnalysis.cpp",
+  "file": "/home/lpt-10xe/addconst/lib/AddMetadataAnalysis.cpp"
+},
+{
+  "directory": "/home/lpt-10xe/addconst/build",
+  "command": "/usr/bin/c++ -DPasses_EXPORTS -I/home/lpt-10xe/riscv-llvm/llvm/include -I/home/lpt-10xe/riscv-llvm/_build/include -I/home/lpt-10xe/addconst/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D_DEBUG -D_GLIBCXX_ASSERTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o lib/CMakeFiles/Passes.dir/AddMetadataPass.cpp.o -c /home/lpt-10xe/addconst/lib/AddMetadataPass.cpp",
+  "file": "/home/lpt-10xe/addconst/lib/AddMetadataPass.cpp"
+},
+{
+  "directory": "/home/lpt-10xe/addconst/build",
+  "command": "/usr/bin/c++ -DPasses_EXPORTS -I/home/lpt-10xe/riscv-llvm/llvm/include -I/home/lpt-10xe/riscv-llvm/_build/include -I/home/lpt-10xe/addconst/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D_DEBUG -D_GLIBCXX_ASSERTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o lib/CMakeFiles/Passes.dir/AddToSubAnalysis.cpp.o -c /home/lpt-10xe/addconst/lib/AddToSubAnalysis.cpp",
+  "file": "/home/lpt-10xe/addconst/lib/AddToSubAnalysis.cpp"
+},
+{
+  "directory": "/home/lpt-10xe/addconst/build",
+  "command": "/usr/bin/c++ -DPasses_EXPORTS -I/home/lpt-10xe/riscv-llvm/llvm/include -I/home/lpt-10xe/riscv-llvm/_build/include -I/home/lpt-10xe/addconst/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D_DEBUG -D_GLIBCXX_ASSERTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o lib/CMakeFiles/Passes.dir/AddToSubPass.cpp.o -c /home/lpt-10xe/addconst/lib/AddToSubPass.cpp",
+  "file": "/home/lpt-10xe/addconst/lib/AddToSubPass.cpp"
+},
+{
+  "directory": "/home/lpt-10xe/addconst/build",
+  "command": "/usr/bin/c++ -DPasses_EXPORTS -I/home/lpt-10xe/riscv-llvm/llvm/include -I/home/lpt-10xe/riscv-llvm/_build/include -I/home/lpt-10xe/addconst/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D_DEBUG -D_GLIBCXX_ASSERTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o lib/CMakeFiles/Passes.dir/MulToShiftAnalysis.cpp.o -c /home/lpt-10xe/addconst/lib/MulToShiftAnalysis.cpp",
+  "file": "/home/lpt-10xe/addconst/lib/MulToShiftAnalysis.cpp"
+},
+{
+  "directory": "/home/lpt-10xe/addconst/build",
+  "command": "/usr/bin/c++ -DPasses_EXPORTS -I/home/lpt-10xe/riscv-llvm/llvm/include -I/home/lpt-10xe/riscv-llvm/_build/include -I/home/lpt-10xe/addconst/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D_DEBUG -D_GLIBCXX_ASSERTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o lib/CMakeFiles/Passes.dir/MulToShiftPass.cpp.o -c /home/lpt-10xe/addconst/lib/MulToShiftPass.cpp",
+  "file": "/home/lpt-10xe/addconst/lib/MulToShiftPass.cpp"
+},
+{
+  "directory": "/home/lpt-10xe/addconst/build",
+  "command": "/usr/bin/c++ -DPasses_EXPORTS -I/home/lpt-10xe/riscv-llvm/llvm/include -I/home/lpt-10xe/riscv-llvm/_build/include -I/home/lpt-10xe/addconst/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D_DEBUG -D_GLIBCXX_ASSERTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o lib/CMakeFiles/Passes.dir/AddCallAnalysis.cpp.o -c /home/lpt-10xe/addconst/lib/AddCallAnalysis.cpp",
+  "file": "/home/lpt-10xe/addconst/lib/AddCallAnalysis.cpp"
+},
+{
+  "directory": "/home/lpt-10xe/addconst/build",
+  "command": "/usr/bin/c++ -DPasses_EXPORTS -I/home/lpt-10xe/riscv-llvm/llvm/include -I/home/lpt-10xe/riscv-llvm/_build/include -I/home/lpt-10xe/addconst/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D_DEBUG -D_GLIBCXX_ASSERTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o lib/CMakeFiles/Passes.dir/AddCallPass.cpp.o -c /home/lpt-10xe/addconst/lib/AddCallPass.cpp",
+  "file": "/home/lpt-10xe/addconst/lib/AddCallPass.cpp"
+},
+{
+  "directory": "/home/lpt-10xe/addconst/build",
+  "command": "/usr/bin/c++ -DPasses_EXPORTS -I/home/lpt-10xe/riscv-llvm/llvm/include -I/home/lpt-10xe/riscv-llvm/_build/include -I/home/lpt-10xe/addconst/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D_DEBUG -D_GLIBCXX_ASSERTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o lib/CMakeFiles/Passes.dir/AddConstPlugin.cpp.o -c /home/lpt-10xe/addconst/lib/AddConstPlugin.cpp",
+  "file": "/home/lpt-10xe/addconst/lib/AddConstPlugin.cpp"
+}
+]
