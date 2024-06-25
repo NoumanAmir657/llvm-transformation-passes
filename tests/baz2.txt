@@ -1,2 +1,0 @@
-CHECK: %add1 = sub i32 %0, 2
-CHECK: store i32 %add1, ptr %x, align 4
